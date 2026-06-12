@@ -12,6 +12,7 @@ export default function Home() {
   return (
     <div>
       <h1>DOEKDIEM</h1>
+      <h2>developer</h2>
       <Welcome />
     </div>
   );
